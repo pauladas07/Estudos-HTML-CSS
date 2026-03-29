@@ -1,1 +1,30 @@
 @charset "UTF-8";
+
+* {
+    font-family: cursive;
+}
+
+body {
+      background-color: #506266;
+}
+
+main {
+      border-radius: 10px;
+      background-color: #818274;  
+      width: 600px;
+      padding: 10px;
+      margin: auto;
+}
+
+h1 {
+    color: #BDE038;
+    text-align: center;
+}
+
+h2 {
+    color: #A3AB78;
+}
+
+p {
+    text-align: justify;
+}
