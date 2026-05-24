@@ -17,9 +17,21 @@ h2 {
     color: rgb(52, 75, 75);
 }
 
-h1#Principal {
+h1#principal {
           background-color: blue;
           color: aquamarine;
           text-align: center;
           font-family: Arial, Helvetica, sans-serif;
+}
+
+.basico {
+         color: rgb(52, 75, 75);
+}
+
+.intermediario {
+         color: yellowgreen;
+}
+
+.avancado {
+           color: rgb(105, 61, 61);
 }
