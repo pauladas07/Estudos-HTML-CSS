@@ -1,0 +1,25 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+}
+
+.container {
+    background-color: #0d1b2a ;
+    height: 100vh;
+    width: 100vh;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.item {
+    background-color: #669bbc;
+    margin: 10px;
+    color: #e0e1dd;
+    width: 75px;
+    height: 75px;
+    border-radius: 6px;
+    font-size: 20px;
+}
